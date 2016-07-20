@@ -1,0 +1,18 @@
+.metodo{
+	border: 10px solid yellow;
+	margin: 10px;
+	width: 250px;
+	height: 250px;
+	text-align: center;
+
+}
+.plano{
+	border: 10px solid #FFFF66;
+	margin:auto;
+	width: 250px;
+	height: 250px;
+	text-align: left;
+}
+.scrum{
+	padding: 30px;
+}
